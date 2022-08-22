@@ -1,2 +1,2 @@
 # quiz
-jfilya.github.io/quiz/
+https://jfilya.github.io/quiz/
